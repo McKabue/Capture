@@ -1,0 +1,12 @@
+B:\Docs\Capture\Capture\VoiceCapture\bin\Debug\VoiceCapture.exe.config
+B:\Docs\Capture\Capture\VoiceCapture\bin\Debug\VoiceCapture.exe
+B:\Docs\Capture\Capture\VoiceCapture\bin\Debug\VoiceCapture.pdb
+B:\Docs\Capture\Capture\VoiceCapture\obj\Debug\MainWindow.baml
+B:\Docs\Capture\Capture\VoiceCapture\obj\Debug\MainWindow.g.cs
+B:\Docs\Capture\Capture\VoiceCapture\obj\Debug\App.g.cs
+B:\Docs\Capture\Capture\VoiceCapture\obj\Debug\VoiceCapture_MarkupCompile.cache
+B:\Docs\Capture\Capture\VoiceCapture\obj\Debug\VoiceCapture.g.resources
+B:\Docs\Capture\Capture\VoiceCapture\obj\Debug\VoiceCapture.Properties.Resources.resources
+B:\Docs\Capture\Capture\VoiceCapture\obj\Debug\VoiceCapture.csproj.GenerateResource.Cache
+B:\Docs\Capture\Capture\VoiceCapture\obj\Debug\VoiceCapture.exe
+B:\Docs\Capture\Capture\VoiceCapture\obj\Debug\VoiceCapture.pdb
