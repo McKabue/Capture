@@ -1,0 +1,12 @@
+B:\Docs\REPOS\Captured\HeadTexter\bin\Debug\HeadTexter.exe.config
+B:\Docs\REPOS\Captured\HeadTexter\bin\Debug\HeadTexter.exe
+B:\Docs\REPOS\Captured\HeadTexter\bin\Debug\HeadTexter.pdb
+B:\Docs\REPOS\Captured\HeadTexter\obj\Debug\MainWindow.baml
+B:\Docs\REPOS\Captured\HeadTexter\obj\Debug\MainWindow.g.cs
+B:\Docs\REPOS\Captured\HeadTexter\obj\Debug\App.g.cs
+B:\Docs\REPOS\Captured\HeadTexter\obj\Debug\HeadTexter_MarkupCompile.cache
+B:\Docs\REPOS\Captured\HeadTexter\obj\Debug\HeadTexter.g.resources
+B:\Docs\REPOS\Captured\HeadTexter\obj\Debug\HeadTexter.Properties.Resources.resources
+B:\Docs\REPOS\Captured\HeadTexter\obj\Debug\HeadTexter.csproj.GenerateResource.Cache
+B:\Docs\REPOS\Captured\HeadTexter\obj\Debug\HeadTexter.exe
+B:\Docs\REPOS\Captured\HeadTexter\obj\Debug\HeadTexter.pdb

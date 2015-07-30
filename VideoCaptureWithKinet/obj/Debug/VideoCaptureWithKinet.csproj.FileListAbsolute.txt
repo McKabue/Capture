@@ -1,0 +1,12 @@
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\bin\Debug\VideoCaptureWithKinet.exe.config
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\bin\Debug\VideoCaptureWithKinet.exe
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\bin\Debug\VideoCaptureWithKinet.pdb
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\obj\Debug\MainWindow.baml
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\obj\Debug\MainWindow.g.cs
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\obj\Debug\App.g.cs
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\obj\Debug\VideoCaptureWithKinet_MarkupCompile.cache
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\obj\Debug\VideoCaptureWithKinet.g.resources
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\obj\Debug\VideoCaptureWithKinet.Properties.Resources.resources
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\obj\Debug\VideoCaptureWithKinet.csproj.GenerateResource.Cache
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\obj\Debug\VideoCaptureWithKinet.exe
+B:\Docs\REPOS\Captured\VideoCaptureWithKinet\obj\Debug\VideoCaptureWithKinet.pdb

@@ -1,0 +1,13 @@
+B:\Docs\REPOS\Captured\SoundFingerprinting\bin\Debug\SoundFingerprinting.exe.config
+B:\Docs\REPOS\Captured\SoundFingerprinting\bin\Debug\SoundFingerprinting.exe
+B:\Docs\REPOS\Captured\SoundFingerprinting\bin\Debug\SoundFingerprinting.pdb
+B:\Docs\REPOS\Captured\SoundFingerprinting\obj\Debug\SoundFingerprinting.csprojResolveAssemblyReference.cache
+B:\Docs\REPOS\Captured\SoundFingerprinting\obj\Debug\MainWindow.baml
+B:\Docs\REPOS\Captured\SoundFingerprinting\obj\Debug\MainWindow.g.cs
+B:\Docs\REPOS\Captured\SoundFingerprinting\obj\Debug\App.g.cs
+B:\Docs\REPOS\Captured\SoundFingerprinting\obj\Debug\SoundFingerprinting_MarkupCompile.cache
+B:\Docs\REPOS\Captured\SoundFingerprinting\obj\Debug\SoundFingerprinting.g.resources
+B:\Docs\REPOS\Captured\SoundFingerprinting\obj\Debug\SoundFingerprinting.Properties.Resources.resources
+B:\Docs\REPOS\Captured\SoundFingerprinting\obj\Debug\SoundFingerprinting.csproj.GenerateResource.Cache
+B:\Docs\REPOS\Captured\SoundFingerprinting\obj\Debug\SoundFingerprinting.exe
+B:\Docs\REPOS\Captured\SoundFingerprinting\obj\Debug\SoundFingerprinting.pdb

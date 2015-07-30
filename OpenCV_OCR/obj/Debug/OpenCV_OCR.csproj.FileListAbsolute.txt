@@ -1,0 +1,12 @@
+B:\Docs\REPOS\Captured\OpenCV_OCR\bin\Debug\OpenCV_OCR.exe.config
+B:\Docs\REPOS\Captured\OpenCV_OCR\bin\Debug\OpenCV_OCR.exe
+B:\Docs\REPOS\Captured\OpenCV_OCR\bin\Debug\OpenCV_OCR.pdb
+B:\Docs\REPOS\Captured\OpenCV_OCR\obj\Debug\MainWindow.baml
+B:\Docs\REPOS\Captured\OpenCV_OCR\obj\Debug\MainWindow.g.cs
+B:\Docs\REPOS\Captured\OpenCV_OCR\obj\Debug\App.g.cs
+B:\Docs\REPOS\Captured\OpenCV_OCR\obj\Debug\OpenCV_OCR_MarkupCompile.cache
+B:\Docs\REPOS\Captured\OpenCV_OCR\obj\Debug\OpenCV_OCR.g.resources
+B:\Docs\REPOS\Captured\OpenCV_OCR\obj\Debug\OpenCV_OCR.Properties.Resources.resources
+B:\Docs\REPOS\Captured\OpenCV_OCR\obj\Debug\OpenCV_OCR.csproj.GenerateResource.Cache
+B:\Docs\REPOS\Captured\OpenCV_OCR\obj\Debug\OpenCV_OCR.exe
+B:\Docs\REPOS\Captured\OpenCV_OCR\obj\Debug\OpenCV_OCR.pdb
